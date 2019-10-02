@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: APRILIA SUSANTI
 
-NRP: `isi nrp disini`
+NRP: 06111840000055
 
 
 ## DESKRIPSI SOAL
@@ -33,7 +33,6 @@ penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = -2+7i
 input:"4i","3-7i"
 output:
 ```
-
 ```
 input:"7+6i","7+6i"
 output:
@@ -47,7 +46,13 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+Output soal 1
+
+![soal 1](https://user-images.githubusercontent.com/55954995/66017959-406e1a00-e507-11e9-8157-4ba427b876b6.JPG)
+
+Output soal 2
+
+![soal 2](https://user-images.githubusercontent.com/55954995/66017960-406e1a00-e507-11e9-81bc-d5c4e0c08be4.JPG)
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
